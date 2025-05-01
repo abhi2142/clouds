@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HR Cloud Hub
 
 This is a Next.js web application for HR Cloud Hub, a platform designed to help HRs and employees manage their work efficiently.
@@ -88,3 +89,6 @@ Open [http://localhost:9002](http://localhost:9002) (or your configured port) wi
 - **Navigation:** A consistent Navbar and Footer are implemented using custom layout components. Mobile navigation uses a Sheet component from ShadCN.
 - **Contact Form:** Built using React Hook Form for state management and Zod for schema validation, providing a robust and user-friendly form experience. Toast notifications provide feedback on submission.
 - **Icons:** Lucide React is used for a clean and consistent icon set.
+=======
+# clouds
+>>>>>>> 88e0e2c8877c6eec774fda1111ba1bc37e0567e6
